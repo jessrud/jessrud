@@ -1,2 +1,2 @@
 
-![Alt](jessrud/africa.svg)
+![Alt](jessrud/jessrud/africa.svg)
