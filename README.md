@@ -1,3 +1,1 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on [minterm](jessrud/minterm/), a terminal control library for zig. WIP RIP
+<meta http-equiv="refresh" content="2;url=http://example.com" />
