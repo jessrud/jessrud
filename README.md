@@ -1,1 +1,2 @@
 
+![Alt](jessrud/africa.svg)
